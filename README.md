@@ -1,6 +1,6 @@
 ## TrackNParcel, a dynamic MERN-based Parcel Management App, offers a responsive platform for users to effortlessly book, track, and manage deliveries. With a sleek design, social login options, and specialized dashboards for users, delivery personnel, and admins, it ensures a seamless experience. Map integration, reviews, and Stripe payment enhance functionality.
 
-<h2>Technology Used : Tailwind Css, Material Tailwind, React Js, Express Js, MongoDB</h2>
+<h2>Technology Used : Tailwind Css, Material Tailwind, React Js, Express Js, MongoDB</h2><br/>
 
 <h1>Features Of TrackNParcel<h1>
 
